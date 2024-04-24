@@ -1,6 +1,11 @@
-#![deny(missing_docs)]
-//! Dummy crate needs high-level documentation.
-/// Dummy public function needs documentation.
-pub fn it_works() {
-    assert_ne!(0, 1);
-}
+pub mod buffer;
+pub mod finds;
+pub mod matrix;
+pub mod moves;
+pub mod operations;
+pub mod pcsr;
+pub mod pma;
+pub mod utils;
+pub mod vector;
+pub mod views;
+pub mod writes;

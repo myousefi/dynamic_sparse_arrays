@@ -3,3 +3,6 @@
 Cargo.lock
 .idea
 kcov_output
+
+
+.DynamicSparseArrays/*

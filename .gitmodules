@@ -1,3 +1,7 @@
 [submodule "rust-vmm-ci"]
 	path = rust-vmm-ci
 	url = https://github.com/rust-vmm/rust-vmm-ci.git
+[submodule "DynamicSparseArrays"]
+	path = DynamicSparseArrays
+	url = https://github.com/atoptima/DynamicSparseArrays.jl.git
+	ignore = all	
